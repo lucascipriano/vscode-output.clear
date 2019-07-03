@@ -1,0 +1,6 @@
+[
+    {
+        "key": "ctrl+l",
+        "command": "workbench.output.action.clearOutput"
+    }
+]
